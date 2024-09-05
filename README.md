@@ -10,7 +10,11 @@
 
 # # Features
   Employee Demographics:  Overview of employee distribution by age, gender, and department.
+
   Turnover Analysis: Insights into employee turnover rates, reasons, and patterns.
+
   Performance Metrics: Analysis of employee performance ratings and promotion trends.
+
   Recruitment Analysis: Evaluation of recruitment sources, time-to-hire, and hiring costs.
+
   Attrition Rate: Visualization of employee who are leaving the company according their jobe role.
