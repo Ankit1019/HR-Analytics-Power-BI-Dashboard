@@ -2,7 +2,8 @@
 
 # HR ANALYTICS REPORT
 
-# Dashboard:- https://app.powerbi.com/groups/me/reports/7d1adf0d-310d-4a38-a823-dc4db55c19bf/077905cdd55c7a83a1dd?experience=power-bi
+# Dashboard
+ https://app.powerbi.com/groups/me/reports/7d1adf0d-310d-4a38-a823-dc4db55c19bf/077905cdd55c7a83a1dd?experience=power-bi
 
 # # Overview
   Welcome to the HR Analytics Report repository! This project contains a comprehensive Power BI report designed to analyze and visualize key HR metrics. The report provides insights into employee demographics, 
